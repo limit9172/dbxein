@@ -1,14 +1,16 @@
-[
-  {
-    "username": "admin",
-    "password": "admin",
-    "token": "me admin",
-    "role": "admin"
-  },
-  {
-    "username": "xeinv1",
-    "password": "xein",
-    "token": "7dt8qwiuigxujsaixjxojwui",
-    "role": "user"
-  }
-]
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "pass1",
+      "token": "token1"
+    }
+  ],
+  "admins": [
+    {
+      "username": "admin1",
+      "password": "adminpass",
+      "token": "admintoken"
+    }
+  ]
+}
