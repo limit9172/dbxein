@@ -8,9 +8,9 @@
     ],
     "admins": [
         {
-            "username": "admin1",
-            "password": "adminpass",
-            "token": "admintoken"
+            "username": "loardz",
+            "password": "loardz",
+            "token": "me"
         }
     ]
 }
